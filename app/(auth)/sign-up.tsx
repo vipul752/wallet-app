@@ -104,7 +104,7 @@ export default function SignUpScreen() {
   return (
     <KeyboardAwareScrollView
       style={{ flex: 1 }}
-      contentContainerStyle={{ flexGrow: 1 }}
+      contentContainerStyle={{ flexGrow:1 }}
       enableOnAndroid={true}
       enableAutomaticScroll={true}
     >
